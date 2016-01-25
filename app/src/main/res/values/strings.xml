@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Outline Time</string>
+    <string name="stamp">Stempeln</string>
+    <string name="settings">Einstellungen</string>
+    <string name="username">Benutzername</string>
+    <string name="password">Passwort</string>
+    <string name="success">Zeit wurde erfolgreich eingefügt</string>
+
+    <!-- Errors -->
+    <string name="error_insertion">Die Zeit konnte aufgrund eines Fehlers nicht eingetragen werden</string>
+    <string name="error_login">Login fehlgeschlagen</string>
+    <string name="error_token">Beim Abrufen des Tokens ist ein Fehler aufgetreten</string>
+    <string name="currentBalance">Aktueller Zeitsaldo</string>
+</resources>
